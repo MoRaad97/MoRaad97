@@ -17,11 +17,9 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 👨🏽‍💻 I’m currently a Full-Stack Developer at Microverse. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [MohamedRaad@gmail.com](mailto:mohamedraad77@gmail.com).
-
 
 
 **Languages and Tools:**  
