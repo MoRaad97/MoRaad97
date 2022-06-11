@@ -17,7 +17,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Full-Stack Developer at Microverse. 
+- 👨🏽‍💻 I’m currently a Full-Stack Developer student at Microverse. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [MohamedRaad@gmail.com](mailto:mohamedraad77@gmail.com).
 
