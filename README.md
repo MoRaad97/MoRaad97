@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Mohammed!</h3>
+<h3 title="Hi"> Hey 👋, I'm Mohammed!</h3>
 
 <a href="https://www.linkedin.com/in/mohammed-raad-600176210/">
   <img align="left" alt="Mohammed LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" width="50%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
